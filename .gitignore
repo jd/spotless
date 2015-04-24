@@ -1,0 +1,7 @@
+*.pyc
+.tox
+.testrepository
+*.egg-info
+AUTHORS
+ChangeLog
+dist
