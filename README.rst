@@ -1,8 +1,8 @@
 Introduction
 ============
 
-*spotless* is a set of flake8 plugins that test and enforce the good Python
- guidelines.
+spotless is a set of flake8 plugins that test and enforce the good Python
+guidelines.
 
 Installation
 ============
